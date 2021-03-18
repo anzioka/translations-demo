@@ -1,5 +1,9 @@
 {
-  "test": "Testing this",
-  "title": "Studies"
+  "intro": "Thank you for taking the time to complete this survey! First, we will ask you to describe everything your child did yesterday, starting when your child woke up yesterday morning and ending when they went to bed last night. Then, we will ask how your child slept last night. Please answer the questions to the best of your ability. At the end of the survey, you will be able to make changes if you want.",
+  "select_format": "To get started, please select your preferred clock format.",
+  "12_hour_format": "12-hour clock format",
+  "24_hour_format": "24-hour clock format",
+  "weekday": "We would like you to think about your child's day and complete the time use diary for yesterday. What day of the week was yesterday?",
+  "weeday_options": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+  "typical_day": "An important part of this project is to find out how children spend their time during the week. Was yesterday a typical {{day}} for you and your child? A non-typical day would include a school closing, being on vacation, or being home sick."
 }
-
