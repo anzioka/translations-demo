@@ -7,13 +7,13 @@
   ],
   "weekday": "Tungependa ufikirie juu ya siku ya mtoto wako na ukamilishe shajara ya wakati wa jana. Jana ilikuwa siku gani ya juma?",
   "weekday_options": [
-    "Monday",
-    "Tuesday",
-    "Wednesday",
-    "Thursday",
-    "Friday",
-    "Saturday",
-    "Sunday"
+    "Jumatatu",
+    "Jumanne",
+    "Jumatano",
+    "Alhamisi",
+    "Ijumaa",
+    "Jumamosi",
+    "Jumapili"
   ],
   "typical_day": "An important part of this project is to find out how children spend their time during the week. Was yesterday a typical {{day}} for you and your child? A non-typical day would include a school closing, being on vacation, or being home sick.",
   "typical_day_choices": [
