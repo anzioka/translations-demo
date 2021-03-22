@@ -36,5 +36,9 @@
   "button_submit": "Submit",
   "submit_success": "Thank you for completing the Time Use Diary survey. Your responses have been recorded.",
   "submit_failure": "An error occurred while trying to submit survey. Please try again later.",
-  "weekday": "weekday"
+  "weekday": "weekday",
+  "day_start_time": "What time did your child wake up yesterday morning? Please think about when your child woke up for the day, rather than waking up in the middle of the night and going back to sleep.",
+  "day_end_time": "What time did your child fall asleep last night? Please think about when your child first fell asleep for the night. Later in the survey, we will ask about how often your child woke up in the middle of the night.",
+  "today_wakeup_time": "What time did your child wake up this morning?",
+  "default_time": "Please enter time by typing in the box below (e.g., 07:00) or clicking on the clock button."
 }
