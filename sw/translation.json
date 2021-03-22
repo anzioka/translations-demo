@@ -5,7 +5,7 @@
     "Muundo wa saa 12",
     "Muundo wa saa 24"
   ],
-  "weekday": "Tungependa ufikirie juu ya siku ya mtoto wako na ukamilishe shajara ya wakati wa jana. Jana ilikuwa siku gani ya juma?",
+  "day_of_week": "Tungependa ufikirie juu ya siku ya mtoto wako na ukamilishe shajara ya wakati wa jana. Jana ilikuwa siku gani ya juma?",
   "weekday_options": [
     "Jumatatu",
     "Jumanne",
@@ -35,5 +35,6 @@
   "button_next": "Ifuatayo",
   "button_submit": "Wasilisha",
   "submit_success": "Thank you for completing the Time Use Diary survey. Your responses have been recorded.",
-  "submit_failure": "An error occurred while trying to submit survey. Please try again later."
+  "submit_failure": "An error occurred while trying to submit survey. Please try again later.",
+  "weekday": "siku"
 }
