@@ -17,8 +17,8 @@
   ],
   "typical_day": "Sehemu muhimu ya mradi huu ni kujua jinsi watoto hutumia wakati wao wakati wa wiki. Je! Jana ilikuwa {{day}} ya kawaida kwako na kwa mtoto wako? Siku isiyo ya kawaida itajumuisha kufunga shule, kuwa likizo, au kuwa mgonjwa nyumbani.",
   "typical_day_choices": [
-    "Yes, yesterday was typical.",
-    "No, yesterday was non-typical."
+    "Ndio, jana ilikuwa siku ya kawaida.",
+    "Hapana, jana haikuwa siku ya kawaida."
   ],
   "yes": "Ndio",
   "no": "Hapana",
