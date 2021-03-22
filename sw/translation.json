@@ -15,22 +15,25 @@
     "Jumamosi",
     "Jumapili"
   ],
-  "typical_day": "An important part of this project is to find out how children spend their time during the week. Was yesterday a typical {{day}} for you and your child? A non-typical day would include a school closing, being on vacation, or being home sick.",
+  "typical_day": "Sehemu muhimu ya mradi huu ni kujua jinsi watoto hutumia wakati wao wakati wa wiki. Je! Jana ilikuwa {{day}} ya kawaida kwako na kwa mtoto wako? Siku isiyo ya kawaida itajumuisha kufunga shule, kuwa likizo, au kuwa mgonjwa nyumbani.",
   "typical_day_choices": [
     "Yes, yesterday was typical.",
     "No, yesterday was non-typical."
   ],
-  "non_typical_day": "What made yesterday a non-typical day?",
-  "choose_applicable": "Please choose all that apply",
-  "non_typical_day_choices": [
-    "My child was sick.",
-    "School/childcare was closed.",
-    "The weather was bad and we could not go outside.",
-    "We were traveling.",
-    "We had visitors."
+  "yes": "Ndio",
+  "no": "Hapana",
+  "non_typical_day": "Ni nini kilifanya jana kuwa siku isiyo ya kawaida?",
+  "choose_applicable": "Tafadhali chagua zote zinazotumika",
+  "non_typical_day_reasons": [
+    "Mtoto wangu alikuwa akiumwa.",
+    "Shule / utunzaji wa watoto ulifungwa.",
+    "Hali ya hewa ilikuwa mbaya na hatukuweza kwenda nje.",
+    "Tulikuwa tukisafiri.",
+    "Tulikuwa na wageni."
   ],
-  "button_back": "Back",
-  "button_next": "Next",
+  "button_back": "Nyuma",
+  "button_next": "Ifuatayo",
+  "button_submit": "Wasilisha",
   "submit_success": "Thank you for completing the Time Use Diary survey. Your responses have been recorded.",
   "submit_failure": "An error occurred while trying to submit survey. Please try again later."
 }

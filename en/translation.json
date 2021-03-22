@@ -20,9 +20,11 @@
     "Yes, yesterday was typical.",
     "No, yesterday was non-typical."
   ],
+  "yes": "Yes",
+  "no": "No",
   "non_typical_day": "What made yesterday a non-typical day?",
   "choose_applicable": "Please choose all that apply",
-  "non_typical_day_choices": [
+  "non_typical_day_reasons": [
     "My child was sick.",
     "School/childcare was closed.",
     "The weather was bad and we could not go outside.",
