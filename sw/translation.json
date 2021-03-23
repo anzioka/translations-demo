@@ -57,5 +57,52 @@
   "next_activity": "Je! Mtoto wako alianza kufanya nini saa {{time, LT}} baada ya kumaliza {{activity}}?",
   "default_end_time": "Shughuli iliyochaguliwa iliisha lini?",
   "activity_end_time": "Mtoto wako aliacha lini {{activity}}?",
-  "contextual_text": "Sasa, wacha tuzungumze juu ya kile mtoto wako alikifanya wakati wa {{activity}} saa {{time, LT}}."
+  "contextual_text": "Sasa, wacha tuzungumze juu ya kile mtoto wako alikifanya wakati wa {{activity}} saa {{time, LT}}.",
+  "caregiver": "Ni nani alikuwa na mtoto wako wakati wa {{activity}}?",
+  "caregiver_options": [
+    "Mzazi",
+    "Babu",
+    "Mtu mwingine mzima",
+    "Ndugu",
+    "Mtoto mwingine"
+  ],
+  "bg_tv_day": "Kulikuwa na runinga wakati wa {{activity}}? Kwa mfano, labda mzazi alikuwa akiangalia runinga mtoto alipofanya kitu kingine ndani ya chumba.",
+  "bg_audio_day": "Kulikuwa na mziki wakati wa {{activity}}? Kwa mfano, labda mzazi alikuwa akisikiliza muziki mtoto alipofanya kitu kingine ndani ya chumba.",
+  "adult_media": "Je, mtu mzima alikuwa aktumia kifaa cha rununu (simu, kompyuta kibao, komputea ndogo) wakati wa {{activity}}? Kwa mfano, labda mzazi alikuwa anatuma ujumbe mfupi mtoto alipofanya kitu kingine ndani ya chumba.",
+  "bg_media_options": [
+    "Hapana",
+    "Ndio, wakati mwingine",
+    "Ndio, nusu ya wakati",
+    "Ndio, wakati mwingi",
+    "Ndio, wakati wote",
+    "Sijui"
+  ],
+  "other_activity": "Je, mtoto wako alifanya kitu kingine wakati wa {{activity}}?",
+  "dont_know": "Sijui",
+  "secondary_activity": "Sawa, mtoto wako alifanya nini kingine wakati wa {{activity}}?",
+  "book_type": "Hasa, ni aina gani ya kitabu ambacho mtoto wako alisoma?",
+  "book_title": "Kitabu hicho kilikuwa na jina gani? Ikiwa haujui jina halisi, unaweza kutoa maelezo ya jumla.",
+  "media_activity": "Hasa, mtoto wako alifanya nini wakati anatumia media ya skrini?",
+  "media_age": "Je! Unaweza kuelezea programu kama kwa umri wa mtoto wako, kwa watoto wakubwa, kwa watoto wadogo, au kwa watu wazima?",
+  "media_name": "Je! Jina la programu ya media lilikuwa nini? Ikiwa haujui jina halisi, unaweza kutoa maelezo ya jumla.",
+  "media_age_options": [
+    "Umri wa mtoto",
+    "Watoto wakubwa",
+    "Watoto Wadogo",
+    "Watu wazima",
+    "Sijui"
+  ],
+  "media_activity_options": [
+    "Tazama video (runinga, sinema, YouTube, n.k.)",
+    "Cheza michezo (programu, mchezo wa kiweko, n.k.)",
+    "Gumzo la video (Facetime, Zoom, n.k.)",
+    "Kuwasiliana na wengine kwa njia nyingine (kuongea kwa simu, kuandika ujumbe mfupi, n.k.)",
+    "Kurekodi video, picha, n.k",
+    "Angalia habari kwenye wavuti"
+  ],
+  "book_type_options": [
+    "Kitabu kilichochapishwa (karatasi, kadibodi, nk)",
+    "Kitabu cha elektroniki (eBook)",
+    "Kitabu cha kusikiliza"
+  ]
 }

@@ -57,5 +57,52 @@
   "next_activity": "What did your child start doing at {{time, LT}} after they finished {{activity}}?",
   "default_end_time": "When did the selected activity end?",
   "activity_end_time": "When did your child stop {{activity}}?",
-  "contextual_text": "Now, let's talk about what your child did while {{activity}} at {{time, LT}}."
+  "contextual_text": "Now, let's talk about what your child did while {{activity}} at {{time, LT}}.",
+  "caregiver": "Who was with your child when he/she was {{activity}}?",
+  "caregiver_options": [
+    "A parent or parental figure",
+    "A grandparent",
+    "Another adult",
+    "A sibling",
+    "Another child"
+  ],
+  "bg_tv_day": "Was there TV in the background while your child was {{activity}}? For example, maybe a parent was watching TV while your child did something else in the room.",
+  "bg_audio_day": "Was there audio in the background (e.g., music, podcast) while your child was {{activity}}? For example, maybe a parent was listening to music while your child did something else in the room.",
+  "adult_media": "Was an adult using a mobile device (phone, tablet, laptop) while your child was {{activity}}? For example, maybe a parent was sending text messages while your child did something else in the room.",
+  "bg_media_options": [
+    "No",
+    "Yes, some of the time",
+    "Yes, half of the time",
+    "Yes, most of the time",
+    "Yes, the entire time",
+    "Don't know"
+  ],
+  "other_activity": "Did your child do anything else while {{activity}}?",
+  "dont_know": "Don't know",
+  "secondary_activity": "Ok, what else did your child do while {{activity}}?",
+  "book_type": "Specifically, what type(s) of book did your child read?",
+  "book_title": "What was the name of the book? If you don't know the exact name, you can give a general description (e.g., a book about unicorns).",
+  "media_activity": "Specifically, what did your child do while using screen media?",
+  "media_age": "Would you describe the program (e.g., TV show, app) as for your child’s age, for older children, for younger children, or for adults?",
+  "media_name": "What was the name of the media program (e.g., name of the show or app)? If you don’t know the exact name, you can give a general description (e.g., a drawing app, a movie about unicorns).",
+  "media_age_options": [
+    "Child's age",
+    "Older children",
+    "Younger children",
+    "Adults",
+    "Don't know"
+  ],
+  "media_activity_options": [
+    "Watched video content (TV, movie, YouTube, etc.)",
+    "Played games (app, console game, etc.)",
+    "Video chat (Facetime, Zoom, etc.)",
+    "Communicated with others in another way (talked on phone, helped to write a text message, etc.)",
+    "Created content (recorded video, took photographs, etc.)",
+    "Looked up information on the internet"
+  ],
+  "book_type_options": [
+    "Printed book (paper, cardboard, etc.)",
+    "Electronic book (eBook)",
+    "Audiobook"
+  ]
 }
