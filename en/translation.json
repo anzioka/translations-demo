@@ -104,5 +104,6 @@
     "Printed book (paper, cardboard, etc.)",
     "Electronic book (eBook)",
     "Audiobook"
-  ]
+  ],
+  "no_one": "No one"
 }
