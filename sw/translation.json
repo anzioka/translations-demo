@@ -57,19 +57,17 @@
   "next_activity": "Je! Mtoto wako alianza kufanya nini saa {{time, LT}} baada ya kumaliza {{activity}}?",
   "default_end_time": "Shughuli iliyochaguliwa iliisha lini?",
   "activity_end_time": "Mtoto wako aliacha lini {{activity}}?",
-  "contextual": {
-    "text": "Sasa, wacha tuzungumze juu ya kile mtoto wako alikifanya alipokuwa {{activity}} saa {{time, LT}}.",
-    "choices": {
-      "childcare": "akihudhuria shule / matunzo ya watoto",
-      "napping": "akilala",
-      "eating": "akila / kunywa",
-      "media_use": "akitumia media ya skrini",
-      "reading": "akisoma au kusikiliza hadithi",
-      "indoor": "akicheza ndani ya nyumba",
-      "outdoor": "akicheza nje",
-      "grooming": "bafuni",
-      "other": "akifanya shughuli zingine nyumbani",
-      "outdoors": "akifanya shughuli zingine nje ya nyumba"
-    }
+  "contextual_text": "Sasa, wacha tuzungumze juu ya kile mtoto wako alikifanya alipokuwa {{activity}} saa {{time, LT}}.",
+  "contextual_choices": {
+    "childcare": "akihudhuria shule / matunzo ya watoto",
+    "napping": "akilala",
+    "eating": "akila / kunywa",
+    "media_use": "akitumia media ya skrini",
+    "reading": "akisoma au kusikiliza hadithi",
+    "indoor": "akicheza ndani ya nyumba",
+    "outdoor": "akicheza nje",
+    "grooming": "bafuni",
+    "other": "akifanya shughuli zingine nyumbani",
+    "outdoors": "akifanya shughuli zingine nje ya nyumba"
   }
 }
