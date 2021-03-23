@@ -105,5 +105,33 @@
     "Kitabu cha elektroniki (eBook)",
     "Kitabu cha kusikiliza"
   ],
-  "no_one": "Hakuna"
+  "no_one": "Hakuna",
+  "bg_tv_night": "Kulikuwa na runinga ikicheza kwenye chumba wakati mtoto wako alikuwa amelala usiku?",
+  "bg_audio_night": "Kulikuwa na muziki au sauti nyingine ikicheza kwenye chumba wakati mtoto wako amelala usiku?",
+  "sleep_pattern": "Jana usiku, je, usingizi wa mtoto wako ulikuwa wa kawaida?",
+  "sleep_arrangement": "Jana usiku, mpango wa kulala wa mtoto wako ulikuwa nini?",
+  "sleep_arrangement_options": [
+    "Crib / kitanda / kitanda peke yao, chumba tofauti (haijashirikiwa na wengine)",
+    "Kitanda / kitanda / kitanda katika chumba cha mzazi",
+    "Crib / kitanda / kitanda katika chumba cha pamoja na ndugu",
+    "Kulala pamoja katika kitanda cha mzazi",
+    "Kulala pamoja katika kitanda cha ndugu"
+  ],
+  "wake_up_count": "Jana usiku, ni mara ngapi mtoto wako aliamka katikati ya usiku?",
+  "wake_up_count_options": [
+    "Hakuamka",
+    "Mara moja",
+    "Mara mbili",
+    "Mara tatu",
+    "Mara nne",
+    "Mara tano au zaidi",
+    "Sijui"
+  ],
+  "non_typical_sleep_pattern": "Ni nini kilichofanya muundo wa kulala wa mtoto wako usiwe wa kawaida?",
+  "non_typical_sleep_options": [
+    "Mtoto wangu alikuwa akiumwa",
+    "Tulikuwa tukisafiri",
+    "Tulikuwa na wageni"
+  ],
+  "other": "Nyingine"
 }

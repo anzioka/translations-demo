@@ -105,5 +105,33 @@
     "Electronic book (eBook)",
     "Audiobook"
   ],
-  "no_one": "No one"
+  "no_one": "No one",
+  "bg_tv_night": "Was there a TV playing in the room while your child slept at night?",
+  "bg_audio_night": "Was there music or other audio playing in the room while your child slept at night?",
+  "sleep_pattern": "Last night, was your child's sleep pattern typical?",
+  "sleep_arrangement": "Last night, what was your child's sleeping arrangement?",
+  "sleep_arrangement_options": [
+    "Crib/cot/bed in their own, separate room (not shared with others)",
+    "Crib/cot/bed in a parent's room",
+    "Crib/cot/bed in a shared room with a sibling",
+    "Co-sleeping in a parent's bed",
+    "Co-sleeping in a sibling's bed"
+  ],
+  "wake_up_count": "Last night, how many times did your child wake up in the middle of the night?",
+  "wake_up_count_options": [
+    "Didn't wake up",
+    "1 time",
+    "2 times",
+    "3 times",
+    "4 times",
+    "5 or more times",
+    "Don't know"
+  ],
+  "non_typical_sleep_pattern": "What made your child's sleeping pattern non-typical?",
+  "non_typical_sleep_options": [
+    "My child was sick",
+    "We were traveling",
+    "We had visitors"
+  ],
+  "other": "Other"
 }
