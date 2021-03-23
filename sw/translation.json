@@ -47,7 +47,7 @@
     "eating": "Kula / Kunywa",
     "media_use": "Kutumia media ya skrini (video, programu, gumzo, n.k.)",
     "reading": "Kusoma au kusikiliza hadithi (kitabu cha karatasi, Vitabu vya vitabu, kitabu cha sauti, n.k.)",
-    "indoorr": "Kucheza ndani ya nyumba",
+    "indoor": "Kucheza ndani ya nyumba",
     "outdoor": "Kucheza nje",
     "grooming": "Bafuni / utunzaji",
     "other": "Kufanya shughuli zingine nyumbani (kupika, kazi za nyumbani, n.k.)",
@@ -56,5 +56,20 @@
   "primary_activity": "Je! Mtoto wako alianza kufanya nini saa {{time, LT}}?",
   "next_activity": "Je! Mtoto wako alianza kufanya nini saa {{time, LT}} baada ya kumaliza {{activity}}?",
   "default_end_time": "Shughuli iliyochaguliwa iliisha lini?",
-  "activity_end_time": "Mtoto wako aliacha lini {{activity}}?"
+  "activity_end_time": "Mtoto wako aliacha lini {{activity}}?",
+  "contextual": {
+    "text": "Sasa, wacha tuzungumze juu ya kile mtoto wako alikifanya alipokuwa {{activity}} saa {{time, LT}}.",
+    "choices": {
+      "childcare": "akihudhuria shule / matunzo ya watoto",
+      "napping": "akilala",
+      "eating": "akila / kunywa",
+      "media_use": "akitumia media ya skrini",
+      "reading": "akisoma au kusikiliza hadithi",
+      "indoor": "akicheza ndani ya nyumba",
+      "outdoor": "akicheza nje",
+      "grooming": "bafuni",
+      "other": "akifanya shughuli zingine nyumbani",
+      "outdoors": "akifanya shughuli zingine nje ya nyumba"
+    }
+  }
 }

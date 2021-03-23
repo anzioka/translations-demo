@@ -47,7 +47,7 @@
     "eating": "Eating/Drinking",
     "media_use": "Using screen media (videos, apps, chat, etc.)",
     "reading": "Reading or listening to a story (paper book, eBook, audiobook, etc.)",
-    "indoorr": "Playing indoors",
+    "indoor": "Playing indoors",
     "outdoor": "Playing outdoors",
     "grooming": "Bathroom/grooming",
     "other": "Doing other activities at home (cooking, chores, etc.)",
@@ -56,5 +56,20 @@
   "primary_activity": "What did your child start doing at {{time, LT}}?",
   "next_activity": "What did your child start doing at {{time, LT}} after they finished {{activity}}?",
   "default_end_time": "When did the selected activity end?",
-  "activity_end_time": "When did your child stop {{activity}}?"
+  "activity_end_time": "When did your child stop {{activity}}?",
+  "contextual": {
+    "text": "Now, let's talk about what your child did while {{activity}} at {{time, LT}}.",
+    "choices": {
+      "childcare": "attending school/childcare",
+      "napping": "napping/sleeping",
+      "eating": "eating/Drinking",
+      "media_use": "using screen media (videos, apps, chat, etc.)",
+      "reading": "reading or listening to a story (paper book, eBook, audiobook, etc.)",
+      "indoor": "playing indoors",
+      "outdoor": "playing outdoors",
+      "grooming": "grooming",
+      "other": "doing other activities at home (cooking, chores, etc.)",
+      "outdoors": "doing other activities out of the house (errands, traveling, etc.)"
+    }
+  }
 }
