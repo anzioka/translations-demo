@@ -40,5 +40,17 @@
   "day_start_time": "What time did your child wake up yesterday morning? Please think about when your child woke up for the day, rather than waking up in the middle of the night and going back to sleep.",
   "day_end_time": "What time did your child fall asleep last night? Please think about when your child first fell asleep for the night. Later in the survey, we will ask about how often your child woke up in the middle of the night.",
   "today_wakeup_time": "What time did your child wake up this morning?",
-  "default_time": "Please enter time by typing in the box below (e.g., 07:00) or clicking on the clock button."
+  "default_time": "Please enter time by typing in the box below (e.g., 07:00) or clicking on the clock button.",
+  "primary_activities": {
+    "childcare": "Attending school/childcare",
+    "napping": "Napping/sleeping",
+    "eating": "Eating/Drinking",
+    "media_use": "Using screen media (videos, apps, chat, etc.)",
+    "reading": "Reading or listening to a story (paper book, eBook, audiobook, etc.)",
+    "indoorr": "Playing indoors",
+    "outdoor": "Playing outdoors",
+    "grooming": "Bathroom/grooming",
+    "other": "Doing other activities at home (cooking, chores, etc.)",
+    "outdoors": "Doing other activities out of the house (errands, traveling, etc.)"
+  }
 }

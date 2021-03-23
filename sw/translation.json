@@ -40,5 +40,17 @@
   "day_start_time": "Je! Mtoto wako aliamka saa ngapi asubuhi jana? Tafadhali fikiria juu ya wakati mtoto wako aliamka kwa siku hiyo, badala ya kuamka katikati ya usiku na kurudi kulala.",
   "day_end_time": "Je! Mtoto wako alilala saa ngapi jana usiku? Tafadhali fikiria wakati mtoto wako alilala usiku wa kwanza. Baadaye katika uchunguzi, tutauliza juu ya ni mara ngapi mtoto wako aliamka katikati ya usiku.",
   "today_wakeup_time": "Je! Mtoto wako aliamka saa ngapi asubuhi ya leo?",
-  "default_time": "Tafadhali ingiza wakati kwa kuandika kwenye kisanduku hapo chini (kwa mfano, 07:00) au kubonyeza kitufe cha saa."
+  "default_time": "Tafadhali ingiza wakati kwa kuandika kwenye kisanduku hapo chini (kwa mfano, 07:00) au kubonyeza kitufe cha saa.",
+  "primary_activities": {
+    "childcare": "Kuhudhuria shule / matunzo ya watoto",
+    "napping": "Kulala",
+    "eating": "Kula / Kunywa",
+    "media_use": "Kutumia media ya skrini (video, programu, gumzo, n.k.)",
+    "reading": "Kusoma au kusikiliza hadithi (kitabu cha karatasi, Vitabu vya vitabu, kitabu cha sauti, n.k.)",
+    "indoorr": "Kucheza ndani ya nyumba",
+    "outdoor": "Kucheza nje",
+    "grooming": "Bafuni / utunzaji",
+    "other": "Kufanya shughuli zingine nyumbani (kupika, kazi za nyumbani, n.k.)",
+    "outdoors": "Kufanya shughuli zingine nje ya nyumba (safari, kusafiri, n.k.)"
+  }
 }
